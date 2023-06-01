@@ -1,0 +1,13 @@
+# modernweb
+
+create a modern, fully responsive HTML &amp; CSS website with animations!
+
+![image](https://github.com/kalanaveen/modernweb/assets/34640475/61576ccb-bd16-4a51-b039-89e5bd772884)
+
+Use CSS variables
+Import CSS files into other CSS files
+Use flex and position properties in CSS
+Create smooth and subtle animations
+Use the BEM naming method
+Maintain a well-organized file and folder structure
+Embrace the principles of writing clean code
